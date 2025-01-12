@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer and Designer
 ------------------------------
 
-* 🖥️  See my portfolio at [My Portfolio](http://https://brandporto.netlify.app/)
+* 🖥️  See my portfolio at [My Portfolio](https://brandporto.netlify.app/)
 * ✉️  You can contact me at [ismaelmurekezi1@gmail.com](mailto:ismaelmurekezi1@gmail.com)
 * 🚀  I'm currently working on [DevPulse](http://atlp-devpulse-fn.vercel.app/)
 * 🧠  I'm learning Django
