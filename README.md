@@ -6,10 +6,10 @@ Software Engineer/ UX Designer
 
 * 🖥️  See my portfolio at [My Portfolio](https://brandporto.netlify.app/)
 * ✉️  You can contact me at [ismaelmurekezi1@gmail.com](mailto:ismaelmurekezi1@gmail.com)
-* 🚀  I'm currently working on [DevPulse](http://atlp-devpulse-fn.vercel.app/)
-* 🧠  I'm learning Django
 * 🤝  I'm open to collaborating on Web Development Projects
-* ⚡  Play Always and Work hard (God first)
+* 🙏  Pray Always and Work hard (God first)
+<!--* 🚀  I'm currently working on [DevPulse](http://atlp-devpulse-fn.vercel.app/) -->
+<!--* 🧠  I'm learning Django -->
 
 ### Skills
 
